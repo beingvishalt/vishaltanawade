@@ -44,12 +44,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vishaltanawade&show_icons=true&locale=en" alt="vishaltanawade" width="300" height="350"/>
 </p>
 
- 
-##  Spotify Playing <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/musical-note_1f3b5.png" width="25">
-
- 
-[![Spotify](https://spotify-playing-git-master-beingvishalt.vercel.app/api/spotify)](https://open.spotify.com/user/31jbk2ezwi4buineqcvjb5tarzxm?si=03f9f987baf5479a)
-
 
 ## Connect With Me
 <a href="https://github.com/vishaltanawade?tab=repositories"><img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="30" title="Github"/></a>
